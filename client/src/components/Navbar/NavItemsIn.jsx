@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import styles from "./navbar.module.css";
-import avatar from "../../assets/avatar.png";
+import avatar from "../../assets/user.svg";
 import hamburger from "../../assets/hamburger.png";
 import cross from "../../assets/cross.png";
 
